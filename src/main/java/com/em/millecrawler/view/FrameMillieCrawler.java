@@ -10,7 +10,7 @@ import javax.swing.JPanel;
  * @author Emilien
  */
 public class FrameMillieCrawler extends javax.swing.JFrame {
-	private static final String DEFAULT_TITLE = "MillieCrawler";
+	private static final String DEFAULT_TITLE = "com.em.millecrawler.MillieCrawler";
 	private static FrameMillieCrawler instance = new FrameMillieCrawler();
 	private MillieCrawlerPanel panelGraph = new MillieCrawlerPanel();
 	private JPanel panel = new JPanel();

@@ -1,3 +1,5 @@
+package com.em.millecrawler;
+
 import java.io.IOException;
 
 import com.em.millecrawler.view.FrameMillieCrawler;
